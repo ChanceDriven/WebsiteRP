@@ -2,15 +2,15 @@
     padding-bottom: 20px;
 }
 
-.btn-primary{
-    color: darkblue
+.btn-primary {
+    color: darkblue;
     background-color: #ccc;
-    border-color: cornflowerblue
+    border-color: cornflowerblue;
 }
 
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 150px;
+    margin-left: 25px;
     padding-right: 15px;
 }
 
@@ -58,6 +58,7 @@
     position: fixed;
     left: 150px;
     font-size: 20px;
+    display: block;
 }
 
 /* Override the default bootstrap behavior where horizontal description lists 
