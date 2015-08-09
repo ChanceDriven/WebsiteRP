@@ -2,6 +2,12 @@
     padding-bottom: 20px;
 }
 
+.btn-primary{
+    color: darkblue
+    background-color: #ccc;
+    border-color: cornflowerblue
+}
+
 /* Set padding to keep content from hitting the edges */
 .body-content {
     padding-left: 150px;
