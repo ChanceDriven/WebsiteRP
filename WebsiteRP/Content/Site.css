@@ -3,9 +3,9 @@
 }
 
 .btn-primary{
-    color: darkblue
+    color: darkblue;
     background-color: #ccc;
-    border-color: cornflowerblue
+    border-color: cornflowerblue;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -58,8 +58,12 @@
     position: fixed;
     left: 150px;
     font-size: 20px;
+    display: block;
 }
 
+#main {
+    margin-left: 250px;
+}
 /* Override the default bootstrap behavior where horizontal description lists 
    will truncate terms that are too long to fit in the left column 
 */
